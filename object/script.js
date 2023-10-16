@@ -38,3 +38,10 @@ console.log(arr1);
 
 const date = new Date();
 console.log(date);
+
+const cars = {
+  volvo: 12,
+  model: 2021,
+};
+
+console.log(cars.volvo);

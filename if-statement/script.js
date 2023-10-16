@@ -36,3 +36,22 @@ if (student > 34) {
 } else {
   console.log("they are my students");
 }
+
+const cars = 300;
+
+if (cars === 400) {
+  console.log("its new");
+} else if (cars === 301) {
+  console.log("new model");
+} else {
+  console.log("its plenty");
+}
+
+const books = 80;
+if (books < 80) {
+  console.log("its not plenty");
+} else if (books >= 80) {
+  console.log("They are plenty");
+} else {
+  console.log("its my pleasure reading it");
+}

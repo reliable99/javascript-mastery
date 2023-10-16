@@ -69,3 +69,18 @@ if (dogs) {
 } else {
   console.log("you have no dogs");
 }
+
+const books = 56;
+
+if (books) {
+  console.log(`you have ${books} books for now`);
+} else {
+  console.log("you are doing well");
+}
+
+//falsy
+if ("") {
+  console.log("its my pleasure");
+} else {
+  console.log("you are doing well");
+}
