@@ -50,5 +50,10 @@ const team = (players) => {
 
 team(`25 `);
 
+const abdullah = (good) => {
+  console.log(`he is ${good}  good boy`);
+};
+abdullah(`fine,`);
+
 // Arrow functions are the most modern way to create JavaScript function. For that reason, we're going to explore them in much more detail in the upcoming video! :)
 // notice: we didnt have a return value in this example, in the coming lesson we will explore why its like that
