@@ -100,3 +100,5 @@ if (true) {
 // Local variable doesn’t provide data sharing whereas Global variable provides data sharing.
 // Local variables are stored on the stack whereas the Global variable are stored on a fixed location decided by the compiler.
 // Parameters passing is required for local variables whereas it is not necessary for a global variable
+
+// thanks
