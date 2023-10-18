@@ -21,3 +21,7 @@ console.log(lowerCaseString);
 const lowerStringCase = "hello, how are you";
 const changeToUpperCase = lowerStringCase.toUpperCase();
 console.log(changeToUpperCase);
+
+const upper = "I AM FROM ILOBU OSUN STATE";
+const toLower = upper.toLowerCase();
+console.log(toLower);
