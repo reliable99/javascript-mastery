@@ -7,13 +7,15 @@ console.log("array for each");
 // Let's take an example - we have to log each of the values present in an array called mmy array
 
 // to the console, along with their respective indices, here's how we can do it using the standard for loop:
-
+// lets use the forloop we learnt the other time
 const names = ["ade", "bola", "kunle"];
 for (let i = 0; i < names.length; i++) {
   console.log(i, names[i]);
 }
+// in this case we had to declare and initialise another variable. we can elimited this method with for each
 
 // array for each syntax
+// foreach method accept a callback function then it accept two params (value and index)
 
 const students = ["bola", "kola", "biola"];
 students.forEach((student, i) => {
@@ -25,6 +27,9 @@ const cohorts = ["yusuff", "kola", "muhammad", "dele"];
 cohorts.forEach((cohort, i) => {
   console.log(cohort, i);
 });
+
+const groups = ['groupA', 'GroupB', 'GropuC']
+groups.forEach((group, i) => console.log(group, i))// one line
 
 // Important remarks on the use of this method
 
