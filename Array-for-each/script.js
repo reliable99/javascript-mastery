@@ -28,8 +28,13 @@ cohorts.forEach((cohort, i) => {
   console.log(cohort, i);
 });
 
-const groups = ['groupA', 'GroupB', 'GropuC']
-groups.forEach((group, i) => console.log(group, i))// one line
+const groups = ["groupA", "GroupB", "GropuC"];
+groups.forEach((group, i) => console.log(group, i)); // one line
+
+const pupils = ["abdullah", "yusuff", "adekunle"];
+pupils.forEach((pupil, i) => {
+  console.log(pupil, i)
+});
 
 // Important remarks on the use of this method
 
