@@ -22,6 +22,9 @@ console.log(value2);
 
 const countries = ["Nigeria", "Ghana", "Algeria", "Morroco"];
 const start = countries.find((country) => country.startsWith("N"));
+const names = [ade, kunle, dele, iyabo]
+const start1 = names.find((name) => name.startsWith("a")) 
+console.log(start1)
 
 console.log(start);
 
