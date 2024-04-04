@@ -55,3 +55,11 @@ if (books < 80) {
 } else {
   console.log("its my pleasure reading it");
 }
+
+const students = 30
+if (students === 30) {
+  console.log("we are more than enough")
+
+}else{
+  console.log("we are plenty")
+}
