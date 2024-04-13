@@ -35,3 +35,6 @@ console.log(add);
 const add2 = `${5 + 7}`;
 
 console.log(typeof add2);
+
+const class1 = 4 
+console.log(class1)
