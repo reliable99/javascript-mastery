@@ -38,3 +38,5 @@ console.log(typeof add2);
 
 const class1 = 4 
 console.log(class1)
+const git = "kola"
+console.log(git)
