@@ -40,3 +40,6 @@ const class1 = 4
 console.log(class1)
 const git = "kola"
 console.log(git)
+
+const book = 'things fall apart'
+console.log(book)
