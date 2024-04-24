@@ -63,3 +63,11 @@ if (students === 30) {
 }else{
   console.log("we are plenty")
 }
+
+const name = "abdullah"
+if (name === "") {
+  console.log("were ni")
+}else{
+  console.log('cool')
+}
+
